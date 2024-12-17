@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rimpuhwe/node-demo/issues"
   },
-  "homepage": "https://github.com/rimpuhwe/node-demo#readme"
+  "homepage": "https://github.com/rimpuhwe/node-demo#readme",
+  "dependencies": {
+    "underscore": "^1.13.7"
+  }
 }
