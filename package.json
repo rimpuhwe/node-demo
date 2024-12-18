@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/rimpuhwe/node-demo#readme",
   "dependencies": {
+    "mongoose": "^8.9.1",
     "underscore": "^1.13.7"
   }
 }
